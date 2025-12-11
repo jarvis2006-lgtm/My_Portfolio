@@ -7,8 +7,8 @@ const Contact = () => {
       
       <p>You can reach me at:</p>
 
-    <p><strong>Email:</strong>ysjadhav2006@gmail.com</p>
-    <p><strong>Phone:</strong>9699448641</p>
+    <p><strong>Email:</strong> ysjadhav2006@gmail.com</p>
+    <p><strong>Phone:</strong> 9699448641</p>
 
     <p>Or connect with me on social media:</p>
 
