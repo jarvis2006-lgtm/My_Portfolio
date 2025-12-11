@@ -1,11 +1,11 @@
-/* ==================== RESET ==================== */
+
 * {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   background: #020617; /* DEEP BLACK */
   color: #e5e7eb;
 }
