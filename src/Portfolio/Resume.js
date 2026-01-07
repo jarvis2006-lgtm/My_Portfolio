@@ -6,7 +6,7 @@ const Resume = () => {
         <h2>Resume</h2>
 
 <p>You can download my resume from the below link:</p> 
-<a href="/Yash Resume.pdf"
+<a href="/Sai_Resume.pdf"
   download
   style={{
           display: "inline-block",

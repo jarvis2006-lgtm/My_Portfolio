@@ -7,8 +7,8 @@ const Contact = () => {
       
       <p>You can reach me at:</p>
 
-    <p><strong>Email:</strong> ysjadhav2006@gmail.com</p>
-    <p><strong>Phone:</strong> 9699448641</p>
+    <p><strong>Email:</strong> saibhoir512@gmail.com</p>
+    <p><strong>Phone:</strong> 7448223553</p>
 
     <p>Or connect with me on social media:</p>
 
@@ -18,7 +18,7 @@ const Contact = () => {
 <div className="social-icons">
 
   <a
-    href="https://wa.me/qr/ABXW7BXFQRWID1"
+    href="https://wa.me/qr/IRCIKIPAVZ5FE1"
     target="_blank"
     rel="noreferrer"
     className="whatsapp"
@@ -27,7 +27,7 @@ const Contact = () => {
   </a>
 
   <a
-    href="https://github.com/yourname"
+    href="https://github.com/saibhoir3553"
     target="_blank"
     rel="noreferrer"
     className="github"
@@ -36,16 +36,7 @@ const Contact = () => {
   </a>
 
   <a
-  href="https://www.linkedin.com/in/yash-jadhav-b57771314"
-  target="_blank"
-  rel="noreferrer"
-  className="linkedin"
->
-  <i className="bi bi-linkedin"></i>
-</a>
-
-  <a
-    href="https://www.instagram.com/___yashjadhav___?igsh=MWp6dms3dzRtZ2ZybA=="
+    href="https://www.instagram.com/sai_3553_?igsh=MXQxcmZvbDk3c2k1dA=="
     target="_blank"
     rel="noreferrer"
     className="instagram"
